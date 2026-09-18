@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-nav {
+    height: 40px;
+}
+
+.first-nav li {
+    height: 100%;
+    color: white;
+}
+
+.first-nav li a{
+    display: block;
+    color: white;
+    height: 100%;
+    line-height: 40px;
+}
+
+.first-nav li a:hover{
+   background-color: white;
+   color: black;
+}
+
+.logo{
+    width: 30px;
+    height: 30px;
+}
